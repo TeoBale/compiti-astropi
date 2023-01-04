@@ -323,5 +323,4 @@ Questo programma è veramente semplice e potrebbero essere fatte un sacco di mig
 
 ---
 
-Per qualsiasi problema non esitare a chiedere aiuto !
-Matteo
+In caso di bisogno di aiuto potete contattarmi alla mail: balestriero.matteo.s+astropi@iismachiavelli.com
