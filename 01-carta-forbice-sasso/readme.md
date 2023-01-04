@@ -320,3 +320,8 @@ Ecco il codice completo:
 Non resta altro che eseguire il codice !
 
 Questo programma è veramente semplice e potrebbero essere fatte un sacco di migliorie, se te la senti prova a fare qualche cambiamento :)
+
+---
+
+Per qualsiasi problema non esitare a chiedere aiuto !
+Matteo
