@@ -19,7 +19,7 @@ All'interno del codice dovremo quindi scrivere una funzione che come argomenti p
 
 ```mermaid
 graph TD
-A(Stampa a schermo le istruzioni) -- Link text --> B((Loop))
+A(Stampa a schermo le istruzioni) --> B((Loop))
 B --> D([input dell'Utente])
 D --> F([Opzione generata casualemente])
 F --> G{{Funzione di controllo}}
